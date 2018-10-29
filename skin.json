@@ -130,7 +130,7 @@
     "showPauseIcon": true,
     "pauseIconPosition": "left",
     "PauseIconStyle": {
-      "color": "#2C005C",
+      "color": "#5C2B5C",
       "opacity": 1
     },
     "showTitle": true,
@@ -276,15 +276,15 @@
   },
   "controlBar": {
     "volumeControl": {
-      "color": "#2C005C"
+      "color": "#5C2B5C"
     },
     "iconStyle": {
       "active": {
-        "color": "#2C005C",
+        "color": "#5C2B5C",
         "opacity": 1
       },
       "inactive": {
-        "color": "#2C005C",
+        "color": "#5C2B5C",
         "opacity": 0.95
       }
     },
@@ -311,9 +311,9 @@
     "scrubberBar": {
       "backgroundColor": "#C3FF50",
       "bufferedColor": "#C3FF50",
-      "playedColor": "#2C005C",
-      "scrubberHandleColor": "#2C005C",
-      "scrubberHandleBorderColor": "#2C005C",
+      "playedColor": "#5C2B5C",
+      "scrubberHandleColor": "#5C2B5C",
+      "scrubberHandleBorderColor": "#5C2B5C",
       "thumbnailPreview": true
     },
     "tooltips": {
