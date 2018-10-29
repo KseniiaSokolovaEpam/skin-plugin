@@ -311,7 +311,7 @@
     "scrubberBar": {
       "backgroundColor": "#C3FF50",
       "bufferedColor": "#C3FF50",
-      "playedColor": "2C005C",
+      "playedColor": "#2C005C",
       "scrubberHandleColor": "#2C005C",
       "scrubberHandleBorderColor": "#2C005C",
       "thumbnailPreview": true
