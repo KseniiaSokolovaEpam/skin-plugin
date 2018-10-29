@@ -309,8 +309,8 @@
       "scrubberHandleBorderColor": "rgba(255,255,255,1)"
     },
     "scrubberBar": {
-      "backgroundColor": "#C3FF50",
-      "bufferedColor": "#C3FF50",
+      "backgroundColor": "#FFDC36",
+      "bufferedColor": "#FFDC36",
       "playedColor": "#5C2B5C",
       "scrubberHandleColor": "#5C2B5C",
       "scrubberHandleBorderColor": "#5C2B5C",
