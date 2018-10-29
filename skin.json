@@ -130,7 +130,7 @@
     "showPauseIcon": true,
     "pauseIconPosition": "left",
     "PauseIconStyle": {
-      "color": "green",
+      "color": "#2C005C",
       "opacity": 1
     },
     "showTitle": true,
