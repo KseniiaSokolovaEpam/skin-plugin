@@ -312,7 +312,7 @@
       "backgroundColor": "rgba(175,175,175,0.5)",
       "bufferedColor": "rgba(175,175,175,0.7)",
       "playedColor": "",
-      "scrubberHandleColor": "rgba(67,137,255,1)",
+      "scrubberHandleColor": "#5C0F51",
       "scrubberHandleBorderColor": "rgba(255,255,255,1)",
       "thumbnailPreview": true
     },
