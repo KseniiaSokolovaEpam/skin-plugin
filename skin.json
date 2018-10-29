@@ -276,7 +276,7 @@
   },
   "controlBar": {
     "volumeControl": {
-      "color": ""
+      "color": "#5C0F51"
     },
     "iconStyle": {
       "active": {
