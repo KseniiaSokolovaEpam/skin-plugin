@@ -313,7 +313,7 @@
       "bufferedColor": "#5C0F51",
       "playedColor": "",
       "scrubberHandleColor": "#5C0F51",
-      "scrubberHandleBorderColor": "rgba(255,255,255,1)",
+      "scrubberHandleBorderColor": "#5C0F51",
       "thumbnailPreview": true
     },
     "tooltips": {
